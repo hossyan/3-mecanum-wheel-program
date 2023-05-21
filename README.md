@@ -1,2 +1,3 @@
 # 3-mecanum-wheel-program
-メカナムホイールをarduinoで動かすためのプログラムです。
+メカナムホイールをarduinoで動かすためのプログラムである。
+dualshock4を用いて、bluetoothでarduinoと接続してスティックを倒した方向にロボットが動く。
